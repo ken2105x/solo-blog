@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Mybatis调用Oracle过程整理](https://www.havejoy.top/articles/2019/09/30/1569832349597.html)
 * [XSD简单整理](https://www.havejoy.top/articles/2019/09/20/1568959584768.html)
 * [类加载器ClassLoader](https://www.havejoy.top/articles/2019/09/19/1568882960111.html)
 * [记一次redis和mysql断连接问题](https://www.havejoy.top/articles/2019/09/17/1568710290851.html)
